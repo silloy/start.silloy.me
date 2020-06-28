@@ -1,0 +1,15 @@
+io.spring.initializr.generator.project.ProjectGenerationConfiguration=\
+me.silloy.spring.start.config.CustomMavenPluginConfiguration,\
+me.silloy.spring.start.extension.build.gradle.GradleProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.build.maven.MavenProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.DependencyProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.observability.ObservabilityProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.solace.SolaceProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springamqp.SpringAmqpProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springboot.SpringBootProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springcloud.SpringCloudProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springdata.SpringDataProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springintegration.SpringIntegrationProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.dependency.springrestdocs.SpringRestDocsProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.description.DescriptionProjectGenerationConfiguration,\
+me.silloy.spring.start.extension.code.kotlin.KotlinProjectGenerationConfiguration
